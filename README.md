@@ -63,8 +63,8 @@
 
 ---
 
-## 🧪 Tools Used
+##  Tools Used
 - [PasswordMeter](https://passwordmeter.com)
 
-## 📸 Screenshots
+##  Screenshots
 Screenshots of each password test are included in this repo.
